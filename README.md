@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @ranjan6360
-- 👀 I’m interested in python
-- 🌱 I’m currently learning machine learning
+- 👀 Java Full Srack Engineer
+- 🌱 I’m currently learning Java FSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ranjangowdasb@gmail.com
 
